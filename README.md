@@ -1,2 +1,0 @@
-# abhissheksharma.github.io
-portfolio
