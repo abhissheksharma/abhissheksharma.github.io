@@ -169,12 +169,12 @@ section .content{
 	position: relative;
 }
 .content .title{
-	font-size: 100px;
+	font-size: 75px;
 	font-family: 'poppins' sans-serif;
 }
 
 .content .about-details{
-	font-size: 25px;
+	font-size: 15px;
 	width: 50%;
 }
 .about-details p span{
